@@ -54,9 +54,12 @@
 
 ## Output:
 
+<img width="1548" height="913" alt="image" src="https://github.com/user-attachments/assets/25bcec1f-7cdf-4194-9e9f-fde142ff9358" />
+<img width="1545" height="911" alt="image" src="https://github.com/user-attachments/assets/da85f659-3a92-4eee-8395-678dbe20e569" />
 
-### Name:
-### Register Number: 
+
+### Name: Krithik Kiran S
+### Register Number: 25011340
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
